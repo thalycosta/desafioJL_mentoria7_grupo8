@@ -1,4 +1,4 @@
-O Desafio
+O Desafio ./
 
 Junte-se a outros 4 amigos e usem o ChatGPT para criar um projeto de automação de testes Web usando o Selenium WebDriver, 
 Playwright ou Cypress em Javascript ou Typescript. O projeto precisa seguir boas práticas de estruturação de projetos de 
@@ -8,7 +8,7 @@ ser enviado em conjunto com o código. O código deve ser funcional e testar alg
 Entrega: 18 de outubro às 22h via Github com link enviado para suporte@juliodelima.com.br
 
 
-Artigo Referência
+Artigo Referência ../
 
 https://www.lambdatest.com/blog/selenium-java-testing-page-object-model/
 
