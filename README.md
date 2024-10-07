@@ -17,3 +17,8 @@ https://www.lambdatest.com/blog/selenium-best-practices-for-web-testing/
 https://www.linkedin.com/pulse/best-practices-selenium-test-automation-frameworks-pixel-qa-jm2dc/
 
 https://www.automatetheplanet.com/fluent-page-object-pattern-java/
+
+
+Histórico de conversa com ChatGPT
+
+https://chatgpt.com/share/6702f741-41d4-8000-ab53-b7863175a54c
