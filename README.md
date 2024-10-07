@@ -25,3 +25,9 @@ https://chatgpt.com/share/6702f741-41d4-8000-ab53-b7863175a54c
 
 
 **Participantes do grupo**
+
+Adrya Rhamara: https://www.linkedin.com/in/adrya-sabino-151767204/
+
+Luana Kudo: https://www.linkedin.com/in/luana-kudo-58314415/
+
+Thaly Costa: https://www.linkedin.com/in/thalytacosta/
