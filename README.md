@@ -11,6 +11,9 @@ Entrega: 18 de outubro às 22h via Github com link enviado para suporte@juliodel
 Artigo Referência
 
 https://www.lambdatest.com/blog/selenium-java-testing-page-object-model/
+
 https://www.lambdatest.com/blog/selenium-best-practices-for-web-testing/
+
 https://www.linkedin.com/pulse/best-practices-selenium-test-automation-frameworks-pixel-qa-jm2dc/
+
 https://www.automatetheplanet.com/fluent-page-object-pattern-java/
