@@ -8,8 +8,6 @@ ser enviado em conjunto com o código. O código deve ser funcional e testar alg
 Entrega: 18 de outubro às 22h via Github com link enviado para suporte@juliodelima.com.br
 
 
-
-
 **Artigos Referência**
 
 https://www.lambdatest.com/blog/selenium-java-testing-page-object-model/
