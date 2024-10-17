@@ -24,11 +24,14 @@ https://www.automatetheplanet.com/fluent-page-object-pattern-java/
 https://chatgpt.com/share/6702f741-41d4-8000-ab53-b7863175a54c
 
 
-** Cenário: Validação da Funcionalidade de Adicionar Produto**
+**Cenário: Validação da Funcionalidade de Adicionar Produto**
 
 Caso de Teste 1: Adicionar um produto válido
+
 Caso de Teste 2: Adicionar um produto com valor inválido
+
 Caso de Teste 3: Adicionar um produto com campos em branco
+
 
 
 **Participantes do grupo**
